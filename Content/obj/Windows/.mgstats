@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Enemy/pecboy_1.png","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Enemy/pecboy_1.xnb","TextureProcessor","Texture2DContent",975,4181,0.1439094
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Font/defaultFont.spritefont","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Font/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2072,70687,0.3511944
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Front-Sheet.png","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Player/Front-Sheet.xnb","TextureProcessor","Texture2DContent",1634,49237,0.1728845
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Left-Sheet.png","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Player/Left-Sheet.xnb","TextureProcessor","Texture2DContent",1626,49237,0.1148956
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Right-Sheet.png","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Player/Right-Sheet.xnb","TextureProcessor","Texture2DContent",1422,49237,0.0073548
+"C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Up-Sheet.png","C:/Users/arn/source/repos/AssignmentOneAI/Content/bin/Windows/Player/Up-Sheet.xnb","TextureProcessor","Texture2DContent",1543,49237,0.0058429

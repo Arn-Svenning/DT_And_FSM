@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Enemy/pecboy_1.png</File>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Font/defaultFont.spritefont</File>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Front-Sheet.png</File>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Left-Sheet.png</File>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Right-Sheet.png</File>
+    <File>C:/Users/arn/source/repos/AssignmentOneAI/Content/Player/Up-Sheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
